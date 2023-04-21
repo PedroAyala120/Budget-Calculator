@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/workspaces/Budget-Calculator",
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "numeric": "cpp"
+    }
+}
